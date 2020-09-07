@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font: 100% "Mukta", sans-serif;
+}
+
+img {
+  width: 350px;
+  height: 200px;
+}
+
+.columns .is-desktop {
+  padding: 6em;
+}
+
+.column {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+span {
+  padding: 20px;
+  margin: 5px;
+  width: 350px;
+  height: 350px;
+}
+/*# sourceMappingURL=style.css.map */

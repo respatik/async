@@ -1,0 +1,28 @@
+$font-stack: 'Mukta', sans-serif;
+
+body{
+    text-align: center;
+    font: 100% $font-stack;
+}
+
+img{
+    width: 350px;
+    height: 200px;
+}
+
+.columns .is-desktop{
+    padding: 6em;
+    
+}
+
+.column{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+span{
+    padding: 20px;
+    margin: 5px;
+    width: 350px;
+    height: 350px;
+}
